@@ -1,0 +1,17 @@
+a {
+  color: inherit !important;
+  cursor: default;
+  text-decoration: none !important;
+}
+
+.App {
+  position: absolute;
+  width: 100%;
+  overflow-x: hidden;
+  height: auto;
+  background-color: rgba(251, 251, 251, 1);
+}
+
+.navb {
+  background-color: rgb(255, 255, 255);
+}
