@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Reactify/static/css/main.60028c2d.chunk.css",
+    "main.js": "/Reactify/static/js/main.a40d28b8.chunk.js",
+    "main.js.map": "/Reactify/static/js/main.a40d28b8.chunk.js.map",
+    "runtime-main.js": "/Reactify/static/js/runtime-main.63371d2d.js",
+    "runtime-main.js.map": "/Reactify/static/js/runtime-main.63371d2d.js.map",
+    "static/css/2.f65acde2.chunk.css": "/Reactify/static/css/2.f65acde2.chunk.css",
+    "static/js/2.f034cafe.chunk.js": "/Reactify/static/js/2.f034cafe.chunk.js",
+    "static/js/2.f034cafe.chunk.js.map": "/Reactify/static/js/2.f034cafe.chunk.js.map",
+    "index.html": "/Reactify/index.html",
+    "precache-manifest.b1c9e0a859ef3ad7b2a494f5553e855b.js": "/Reactify/precache-manifest.b1c9e0a859ef3ad7b2a494f5553e855b.js",
+    "service-worker.js": "/Reactify/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/Reactify/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.60028c2d.chunk.css.map": "/Reactify/static/css/main.60028c2d.chunk.css.map",
+    "static/media/dp.jpeg": "/Reactify/static/media/dp.e26673cc.jpeg",
+    "static/media/logo.png": "/Reactify/static/media/logo.43042451.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63371d2d.js",
+    "static/css/2.f65acde2.chunk.css",
+    "static/js/2.f034cafe.chunk.js",
+    "static/css/main.60028c2d.chunk.css",
+    "static/js/main.a40d28b8.chunk.js"
+  ]
+}
